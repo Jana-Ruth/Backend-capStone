@@ -1,0 +1,34 @@
+# 🧩 Task Manager Django Project
+
+A **Django-based REST API** that allows users to register, log in, and manage their daily tasks.  
+It includes **JWT authentication**, **user management**, and **task tracking** features — built with clean, modular code and ready for integration with a React or mobile frontend.
+
+---
+
+## 🚀 Features
+
+- ✅ User registration and authentication (JWT)
+- ✅ Create, read, update, and delete tasks
+- ✅ Role-based access (Admin / User)
+- ✅ API built with Django REST Framework
+- ✅ Filtering and pagination support
+- ✅ Secure authentication using `SimpleJWT`
+- ✅ Easily connectable to React frontend
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|-----------|-------|
+| **Backend** | Python 3, Django, Django REST Framework |
+| **Authentication** | Simple JWT |
+| **Database** | SQLite (default) |
+| **Filtering** | django-filter |
+| **Environment Management** | venv |
+| **Frontend (Optional)** | React.js or React Native |
+
+---
+
+## 📁 Project Structure
+
